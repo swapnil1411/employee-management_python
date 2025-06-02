@@ -1,0 +1,16 @@
+[
+    {
+        "emp_id": 24,
+        "name": 102,
+        "age": "swapnil",
+        "department": "IT",
+        "salary": 70000
+    },
+    {
+        "emp_id": 25,
+        "name": 101,
+        "age": "kaka",
+        "department": "HR",
+        "salary": 20000
+    }
+]
