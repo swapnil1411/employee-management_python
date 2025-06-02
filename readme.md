@@ -95,4 +95,3 @@ Better error handling
 
 🙌 Author
 Swapnil Nanavati
-Built in a week to master Python for backend interviews.
