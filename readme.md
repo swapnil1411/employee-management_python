@@ -1,7 +1,4 @@
 
-markdown
-Copy
-Edit
 # 🧑‍💼 Employee Management CLI (Python)
 
 A command-line application built in Python to manage employees using object-oriented programming and core Python modules.
@@ -32,9 +29,7 @@ ini-py/
 └── services/
 └── employee_service.py # Business logic for employee actions
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -44,9 +39,8 @@ Edit
 python main.py
 This will open an interactive CLI. You can type commands like:
 
-pgsql
-Copy
-Edit
+
+
 add <ID> <Name> <Age> <Dept> <Salary>       Add an employee
 delete <ID>                                 Delete by employee ID
 list                                        List all employees
@@ -61,8 +55,7 @@ No external libraries (uses standard library only)
 
 💡 Example Commands
 bash
-Copy
-Edit
+
 add 101 Alice 30 HR 60000
 add 102 Bob 25 IT 75000
 list
@@ -70,8 +63,7 @@ filter --salary 65000
 export json
 📂 Sample Output
 json
-Copy
-Edit
+
 [
     {
         "emp_id": 101,
